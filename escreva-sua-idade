@@ -1,0 +1,15 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		inteiro nascimento , idade
+
+		nascimento = 1985
+
+		idade = 2020 - nascimento
+
+		escreva("sua idade será:", idade)
+		
+	}
+}
